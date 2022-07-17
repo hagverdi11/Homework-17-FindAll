@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.exe
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.dll
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\bin\Debug\netcoreapp3.1\FindAll.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.dll
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 17 Generic class FindAll\FindAll\FindAll\obj\Debug\netcoreapp3.1\FindAll.genruntimeconfig.cache
